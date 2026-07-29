@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 200,
+    "minestuck:gold": 50
+  },
+  "ingredient": {
+    "item": "cobblemon:yellow_apricorn"
+  }
+}

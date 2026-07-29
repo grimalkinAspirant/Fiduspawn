@@ -1,0 +1,13 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:zillium": 1996,
+    "minestuck:uranium": 413,
+    "minestuck:shale": 612,
+    "minestuck:ruby": 111111,
+    "minestuck:iodine":108
+  },
+  "ingredient": {
+    "item": "cobblemon:cherish_ball"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:quartz": 250,
+    "minestuck:artifact": 500
+  },
+  "ingredient": {
+    "item": "cobblemon:sky_tumblestone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:zillium": 300,
+    "minestuck:ruby": 50000,
+    "minestuck:garnet": 10000,
+    "minestuck:artifact": 60
+  },
+  "ingredient": {
+    "item": "cobblemon:ancient_origin_ball"
+  }
+}
