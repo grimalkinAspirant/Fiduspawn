@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobblemonminestuck:item/pkmn_storage_disk"
+  }
+}
