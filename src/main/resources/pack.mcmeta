@@ -1,6 +1,6 @@
 {
  "pack": {
    "pack_format": 48,
-   "description": "Allows pokemon to spawn in minestuck's medium."
+   "description": "Provides compatibility and integration between Cobblemon and Minestuck."
  }
 }
