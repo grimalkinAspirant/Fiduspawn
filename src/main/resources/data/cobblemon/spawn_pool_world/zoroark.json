@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"zoroark-hisuian-medium","pokemon":"zoroark hisuian","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"30-51","weight":16.0,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

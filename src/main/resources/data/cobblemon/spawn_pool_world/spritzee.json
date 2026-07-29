@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"spritzee-medium","pokemon":"spritzee","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"9-34","weight":5.52,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"torkoal-medium","pokemon":"torkoal","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"22-47","weight":10.0,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"fletchinder-medium",
+			"pokemon":"fletchinder",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"17-38",
+			"weight":0.54,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]
+			}
+		}
+	]
+}

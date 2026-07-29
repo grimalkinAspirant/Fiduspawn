@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"eiscue-medium","pokemon":"eiscue","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"22-47","weight":6.0,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

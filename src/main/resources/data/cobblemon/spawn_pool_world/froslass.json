@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"froslass-medium","pokemon":"froslass","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"42-48","weight":0.32,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

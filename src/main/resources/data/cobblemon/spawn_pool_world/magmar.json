@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"magmar-medium","pokemon":"magmar","presets":["natural"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"30-50","weight":0.95,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

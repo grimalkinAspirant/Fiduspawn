@@ -1,0 +1,21 @@
+{
+	"condition": {
+		"biomes": [
+			"minestuck:land_default_normal",
+			"minestuck:land_default_ocean",
+			"minestuck:land_default_rough",
+			"minestuck:land_humid_normal",
+			"minestuck:land_humid_ocean",
+			"minestuck:land_humid_rough",
+			"minestuck:land_no_rain_normal",
+			"minestuck:land_no_rain_ocean",
+			"minestuck:land_no_rain_rough",
+			"minestuck:land_snow_normal",
+			"minestuck:land_snow_ocean",
+			"minestuck:land_snow_rough",
+			"minestuck:land_high_humid_normal",
+			"minestuck:land_high_humid_ocean",
+			"minestuck:land_high_humid_rough"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"weavile-medium",
+			"pokemon":"weavile",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"38-51",
+			"weight":0.8,
+			"condition":{"neededNearbyBlocks":["minecraft:blue_dirt","minecraft:snow"]
+			}
+		}
+	]
+}

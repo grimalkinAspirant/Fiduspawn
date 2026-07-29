@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"abra-medium",
+			"pokemon":"abra",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"6-31",
+			"weight":8.4,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

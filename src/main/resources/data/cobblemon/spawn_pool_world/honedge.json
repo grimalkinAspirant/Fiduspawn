@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"honedge-medium","pokemon":"honedge","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"8-33","weight":84.0,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

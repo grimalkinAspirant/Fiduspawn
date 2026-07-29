@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"doduo-medium","pokemon":"doduo","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"6-31","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"haunter-medium",
+			"pokemon":"haunter",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"25-41",
+			"weight":0.95,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt","minestuck:igneous_stone"]
+			}
+		}
+	]
+}

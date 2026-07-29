@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"golduck-medium","pokemon":"golduck","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"33-50","weight":0.6,
+	"condition":{"neededNearbyBlocks":["minestuck:chalk"]}}]}

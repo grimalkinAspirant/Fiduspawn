@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"magby-medium","pokemon":"magby","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"11-36","weight":9.0,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

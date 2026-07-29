@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"aromatisse-medium","pokemon":"aromatisse","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"29-46","weight":0.48,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

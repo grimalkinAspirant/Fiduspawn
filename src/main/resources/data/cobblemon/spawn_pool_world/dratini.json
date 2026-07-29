@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"dratini-medium",
+			"pokemon":"dratini",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"surface",
+			"bucket":"rare",
+			"level":"5-30",
+			"weight":7.5,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta","minecraft:mud"]
+			}
+		}
+	]
+}

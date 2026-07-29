@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"hariyama-medium","pokemon":"hariyama","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"24-47","weight":0.2,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

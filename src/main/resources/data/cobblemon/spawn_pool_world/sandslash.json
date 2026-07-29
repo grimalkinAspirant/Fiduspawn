@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"sandslash-medium","pokemon":"sandslash","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"22-45","weight":1.0,
+	"condition":{"neededNearbyBlocks":["minecraft:sand","minecraft:red_sand","minecraft:sandstone","minecraft:red_sandstone"]}}]}

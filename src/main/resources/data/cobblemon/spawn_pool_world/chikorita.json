@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"chikorita-medium","pokemon":"chikorita","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"ultra-rare","level":"5-32","weight":6.0,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

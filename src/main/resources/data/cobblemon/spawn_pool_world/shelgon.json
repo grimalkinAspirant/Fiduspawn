@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"shelgon-medium",
+			"pokemon":"shelgon",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"ultra-rare",
+			"level":"30-42",
+			"weight":3.6,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

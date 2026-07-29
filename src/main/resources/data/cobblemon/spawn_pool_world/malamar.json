@@ -1,0 +1,20 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"malamar-medium",
+			"pokemon":"malamar",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"30-48",
+			"weight":0.32,
+			"condition":{"neededNearbyBlocks":["#c:end_stones"]
+			}
+		}
+	]
+}
+		

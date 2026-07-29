@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"talonflame-medium",
+			"pokemon":"talonflame",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"35-50",
+			"weight":0.06,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]
+			}
+		}
+	]
+}

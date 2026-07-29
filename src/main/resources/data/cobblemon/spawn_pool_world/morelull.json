@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"morelull-medium",
+			"pokemon":"morelull",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"4-29",
+			"weight":1.8,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt","#minecraft:wool","#minecraft:terracotta","minecraft:mycelium"]
+			}
+		}
+	]
+}

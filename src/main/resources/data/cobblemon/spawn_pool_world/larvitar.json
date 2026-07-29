@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"larvitar-medium",
+			"pokemon":"larvitar",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"ultra-rare",
+			"level":"5-30",
+			"weight":6.0,
+			"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]
+			}
+		}
+	]
+}

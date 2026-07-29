@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"meowscarada-medium",
+			"pokemon":"meowscarada",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"ultra-rare",
+			"level":"36-53",
+			"weight":0.4,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

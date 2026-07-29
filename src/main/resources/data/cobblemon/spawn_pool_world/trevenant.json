@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"trevenant-medium",
+			"pokemon":"trevenant",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"26-47",
+			"weight":0.5,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt"]
+			}
+		}
+	]
+}

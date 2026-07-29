@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"salazzle-medium","pokemon":"salazzle","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"33-48","weight":0.1,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

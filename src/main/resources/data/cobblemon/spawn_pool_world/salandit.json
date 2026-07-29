@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"salandit-medium","pokemon":"salandit","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"7-32","weight":9.9,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

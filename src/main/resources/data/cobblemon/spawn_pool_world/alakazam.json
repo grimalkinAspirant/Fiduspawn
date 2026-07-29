@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"alakazam-medium",
+			"pokemon":"alakazam",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"35-50",
+			"weight":0.08,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"cinccino-medium",
+			"pokemon":"cinccino",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"25-47",
+			"weight":0.1,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

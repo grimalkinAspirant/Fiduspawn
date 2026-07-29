@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"reuniclus-medium",
+			"pokemon":"reuniclus",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"41-49",
+			"weight":0.032,
+			"condition":{"neededNearbyBlocks":["#c:end_stones"]
+			}
+		}
+	]
+}

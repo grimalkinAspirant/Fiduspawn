@@ -1,0 +1,29 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"goodra-medium",
+			"pokemon":"goodra",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"rare",
+			"level":"50-60",
+			"weight":0.25,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]}},
+		{
+			"id":"goodra-hisuian-medium",
+			"pokemon":"goodra hisuian",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"rare",
+			"level":"50-60",
+			"weight":0.25,
+			"condition":{"neededNearbyBlocks":["minestuck:chalk"]
+			}
+		}
+	]
+}

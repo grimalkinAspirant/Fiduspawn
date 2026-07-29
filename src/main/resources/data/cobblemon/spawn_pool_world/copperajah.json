@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"copperajah-medium","pokemon":"copperajah","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"34-50","weight":0.96,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

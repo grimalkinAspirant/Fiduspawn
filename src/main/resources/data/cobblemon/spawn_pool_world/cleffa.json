@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"cleffa-medium",
+			"pokemon":"cleffa",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"1-22",
+			"weight":8.4,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

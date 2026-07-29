@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"joltik-medium","pokemon":"joltik","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"7-32","weight":5.4,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

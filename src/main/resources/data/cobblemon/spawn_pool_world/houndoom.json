@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"houndoom-medium","pokemon":"houndoom","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"24-50","weight":0.6,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

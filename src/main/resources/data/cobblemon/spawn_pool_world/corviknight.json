@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"corviknight-medium",
+			"pokemon":"corviknight",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"38-50",
+			"weight":0.1,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt"]
+			}
+		}
+	]
+}

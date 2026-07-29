@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"floatzel-medium","pokemon":"floatzel","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"26-50","weight":0.2,
+	"condition":{"neededNearbyBlocks":["minestuck:chalk"]}}]}

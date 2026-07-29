@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"roselia-medium","pokemon":"roselia","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"23-40","weight":0.95,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

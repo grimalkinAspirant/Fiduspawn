@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"sigilyph-medium",
+			"pokemon":"sigilyph",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"24-49",
+			"weight":6.0,
+			"condition":{"neededNearbyBlocks":["#c:end_stones"]
+			}
+		}
+	]
+}

@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"frogadier-medium","pokemon":"frogadier","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"ultra-rare","level":"16-41","weight":3.6,
+	"condition":{"neededNearbyBlocks":["minestuck:chalk"]}}]}

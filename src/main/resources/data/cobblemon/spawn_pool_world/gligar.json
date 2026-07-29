@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"gligar-medium","pokemon":"gligar","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"18-43","weight":1.9,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

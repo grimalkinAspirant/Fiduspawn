@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"spearow-medium","pokemon":"spearow","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"1-26","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

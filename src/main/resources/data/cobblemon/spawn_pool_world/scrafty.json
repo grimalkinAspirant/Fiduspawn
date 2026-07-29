@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"scrafty-medium","pokemon":"scrafty","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"39-49","weight":0.6,
+	"condition":{"neededNearbyBlocks":["minecraft:sand","minecraft:red_sand","minecraft:sandstone","minecraft:red_sandstone"]}}]}

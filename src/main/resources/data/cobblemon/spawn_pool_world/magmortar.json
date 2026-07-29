@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"magmortar-medium","pokemon":"magmortar","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"45-54","weight":0.05,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

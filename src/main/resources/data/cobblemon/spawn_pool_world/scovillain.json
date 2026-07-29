@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"scovillain-medium","pokemon":"scovillain","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"25-49","weight":0.1,
+	"condition":{"neededNearbyBlocks":["minecraft:sand","minecraft:red_sand","minecraft:sandstone","minecraft:red_sandstone"]}}]}

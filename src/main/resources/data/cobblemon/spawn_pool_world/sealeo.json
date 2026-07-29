@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"sealeo-medium","pokemon":"sealeo","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"32-41","weight":0.54,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

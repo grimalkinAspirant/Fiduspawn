@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"dodrio-medium","pokemon":"dodrio","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"31-47","weight":1.0,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

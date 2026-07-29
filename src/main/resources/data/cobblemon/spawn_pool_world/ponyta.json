@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"ponyta-galarian-medium",
+			"pokemon":"ponyta galarian",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"16-41",
+			"weight":8.4,
+			"condition":{"neededNearbyBlocks":["#minecraft:wool","#minecraft:terracotta","minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]
+			}
+		}
+	]
+}

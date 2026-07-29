@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"koffing-medium",
+			"pokemon":"koffing region_bias=galar",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"9-34",
+			"weight":1.8,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt","#minecraft:wool","#minecraft:terracotta"]
+			}
+		}
+	]
+}

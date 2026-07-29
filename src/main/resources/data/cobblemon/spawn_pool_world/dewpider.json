@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"dewpider-medium","pokemon":"dewpider","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"2-27","weight":8.4,
+	"condition":{"neededNearbyBlocks":["minestuck:chalk"]}}]}

@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"wartortle-medium","pokemon":"wartortle","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"ultra-rare","level":"16-40","weight":3.6,
+	"condition":{"neededNearbyBlocks":["minestuck:chalk"]}}]}

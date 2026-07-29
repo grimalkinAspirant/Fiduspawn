@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"prinplup-medium","pokemon":"prinplup","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"ultra-rare","level":"16-41","weight":3.6,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

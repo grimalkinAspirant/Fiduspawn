@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"toedscruel-medium",
+			"pokemon":"toedscruel",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"30-52",
+			"weight":1.0,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]
+			}
+		}
+	]
+}

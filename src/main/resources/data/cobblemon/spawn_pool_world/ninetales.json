@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"ninetales-medium","pokemon":"ninetales alolan","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"25-51","weight":0.48,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

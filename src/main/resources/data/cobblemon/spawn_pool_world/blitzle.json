@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"blitzle-medium","pokemon":"blitzle","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"5-30","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

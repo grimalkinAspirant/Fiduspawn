@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"duosion-medium",
+			"pokemon":"duosion",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"32-37",
+			"weight":0.288,
+			"condition":{"neededNearbyBlocks":["#c:end_stones"]
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"hakamoo-medium",
+			"pokemon":"hakamoo",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"ultra-rare",
+			"level":"35-42",
+			"weight":3.6,
+			"condition":{"neededNearbyBlocks":["minecraft:sandstone","minecraft:red_sandstone"]
+			}
+		}
+	]
+}

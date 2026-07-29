@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"charizard-medium","pokemon":"charizard","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"ultra-rare","level":"36-53","weight":0.4,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

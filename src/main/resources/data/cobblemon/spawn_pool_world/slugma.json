@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"slugma-medium","pokemon":"slugma","presets":["medium"],"type":"pokemon","spawnablePositionType":"surface","bucket":"common","level":"1-25","weight":9.0,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

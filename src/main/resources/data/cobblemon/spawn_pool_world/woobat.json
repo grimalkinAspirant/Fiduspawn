@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"woobat-medium","pokemon":"woobat","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"7-32","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

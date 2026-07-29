@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"electivire-medium","pokemon":"electivire","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"45-54","weight":0.016,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

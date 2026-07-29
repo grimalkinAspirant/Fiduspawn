@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"misdreavus-medium",
+			"pokemon":"misdreavus",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"19-44",
+			"weight":5.7,
+			"condition":{"neededNearbyBlocks":["minestuck:blue_dirt"]
+			}
+		}
+	]
+}

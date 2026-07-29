@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"galvantula-medium","pokemon":"galvantula","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"36-47","weight":0.6,
+	"condition":{"neededNearbyBlocks":["minestuck:uncarved_wood","minestuck:treated_planks"]}}]}

@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"seel-medium","pokemon":"seel","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"8-33","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"piloswine-medium","pokemon":"piloswine","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"33-45","weight":0.9,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

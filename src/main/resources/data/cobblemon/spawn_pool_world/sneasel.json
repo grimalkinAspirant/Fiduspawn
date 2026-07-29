@@ -1,0 +1,27 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"sneasel-medium",
+			"pokemon":"sneasel",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"18-43",
+			"weight":9.2,
+			"condition":{"neededNearbyBlocks":["minecraft:blue_dirt","minecraft:snow"]
+			}
+		},
+		{
+			"id":"sneasel-hisui-medium",
+			"pokemon":"sneasel hisuian",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"uncommon",
+			"level":"18-43",
+			"weight":9.2,
+			"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

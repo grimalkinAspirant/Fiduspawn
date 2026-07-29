@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"elekid-medium","pokemon":"elekid","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"11-36","weight":1.68,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

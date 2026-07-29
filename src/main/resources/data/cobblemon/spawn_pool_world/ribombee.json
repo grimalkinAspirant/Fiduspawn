@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"ribombee-medium","pokemon":"ribombee","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"25-46","weight":1.0,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

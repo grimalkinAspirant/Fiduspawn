@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"scolipede-medium",
+			"pokemon":"scolipede",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"30-49",
+			"weight":0.06,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]
+			}
+		}
+	]
+}

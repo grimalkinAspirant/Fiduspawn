@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"marowak-alola-medium","pokemon":"marowak alolan","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"28-43","weight":0.6,
+	"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]}}]}

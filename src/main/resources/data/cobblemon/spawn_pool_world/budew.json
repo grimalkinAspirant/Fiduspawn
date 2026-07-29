@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"budew-medium","pokemon":"budew","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"3-28","weight":9.0,
+	"condition":{"neededNearbyBlocks":["minecraft:grass_block","minecraft:mud"]},"anticondition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

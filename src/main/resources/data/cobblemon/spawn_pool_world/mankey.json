@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"mankey-medium","pokemon":"mankey","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"6-31","weight":5.4,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}

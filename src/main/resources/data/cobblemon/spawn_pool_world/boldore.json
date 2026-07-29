@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"boldore-medium","pokemon":"boldore","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"25-39","weight":0.95,
+	"condition":{"neededNearbyBlocks":["minecraft:sand","minecraft:red_sand","minecraft:sandstone","minecraft:red_sandstone"]}}]}

@@ -1,0 +1,9 @@
+{
+	"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[
+		{
+			"id":"darmanitan-medium","pokemon":"darmanitan","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"35-54","weight":0.6,
+			"condition":{"neededNearbyBlocks":["minestuck:igneous_stone"]
+			}
+		}
+	]
+}

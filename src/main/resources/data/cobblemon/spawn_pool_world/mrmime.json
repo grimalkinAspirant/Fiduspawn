@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"mrmime-medium","pokemon":"mrmime galarian","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"uncommon","level":"26-46","weight":0.288,
+	"condition":{"neededNearbyBlocks":["minecraft:snow"]}}]}

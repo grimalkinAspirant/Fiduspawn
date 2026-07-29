@@ -1,0 +1,19 @@
+{
+	"enabled":true,
+	"neededInstalledMods":[],
+	"neededUninstalledMods":[],
+	"spawns":[
+		{
+			"id":"foongus-medium",
+			"pokemon":"foongus",
+			"presets":["medium"],
+			"type":"pokemon",
+			"spawnablePositionType":"grounded",
+			"bucket":"common",
+			"level":"4-29",
+			"weight":9.0,
+			"condition":{"neededNearbyBlocks":["minecraft:mycelium"]
+			}
+		}
+	]
+}

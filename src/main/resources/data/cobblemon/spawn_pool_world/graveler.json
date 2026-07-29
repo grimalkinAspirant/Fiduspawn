@@ -1,0 +1,3 @@
+{"enabled":true,"neededInstalledMods":[],"neededUninstalledMods":[],"spawns":[{
+	"id":"graveler-medium","pokemon":"graveler","presets":["medium"],"type":"pokemon","spawnablePositionType":"grounded","bucket":"common","level":"25-39","weight":0.95,
+	"condition":{"neededNearbyBlocks":["minecraft:cobblestone","minecraft:gravel"]}}]}
