@@ -11,6 +11,13 @@ public class ModItems {
 
     public static final DeferredItem<Item> PKMN_STORAGE_DISK = ITEMS.register("pkmn_storage_disk",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> GRLY_CANDY = ITEMS.register("grly_candy",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BROLY_CANDY = ITEMS.register("broly_candy",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> GENDER_CANDIES = ITEMS.register("gender_candies",
+            () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

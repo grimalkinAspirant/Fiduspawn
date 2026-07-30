@@ -19,6 +19,9 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("Cobblemon || Minestuck"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.PKMN_STORAGE_DISK);
+                        output.accept(ModItems.GRLY_CANDY);
+                        output.accept(ModItems.BROLY_CANDY);
+                        output.accept(ModItems.GENDER_CANDIES);
                     })
                     .build());
 
