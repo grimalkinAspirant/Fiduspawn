@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minecraft:iron_sword"
+  },
+  "input2": {
+    "item": "cobblemon:spell_tag"
+  },
+  "mode": "or",
+  "output": "cobblemonminestuck:sacred_sword"
+}

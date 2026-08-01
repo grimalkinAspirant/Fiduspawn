@@ -10,18 +10,20 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 import java.util.function.Supplier;
 
-public class ModCreativeModeTabs {
+public class CbmsCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, CobblemonMinestuck.MODID);
 
     public  static final Supplier<CreativeModeTab> COBBLEMONMINESTUCK_TAB = CREATIVE_MODE_TAB.register("cobblemonminestuck_tab",
             () -> CreativeModeTab.builder()
-                    .icon(() -> new ItemStack(ModItems.PKMN_STORAGE_DISK.get()))
+                    .icon(() -> new ItemStack(CbmsItems.PKMN_STORAGE_DISK.get()))
                     .title(Component.translatable("Cobblemon || Minestuck"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.PKMN_STORAGE_DISK);
-                        output.accept(ModItems.GRLY_CANDY);
-                        output.accept(ModItems.BROLY_CANDY);
-                        output.accept(ModItems.GENDER_CANDIES);
+                        output.accept(CbmsItems.SACRED_SWORD);
+                        output.accept(CbmsItems.WATER_SHURIKEN);
+                        output.accept(CbmsItems.BITTER_BLADE);
+                        output.accept(CbmsItems.RUINATION);
+                        output.accept(CbmsItems.STUN_SHOCK);
+                        output.accept(CbmsItems.IVY_CUDGEL);
                     })
                     .build());
 

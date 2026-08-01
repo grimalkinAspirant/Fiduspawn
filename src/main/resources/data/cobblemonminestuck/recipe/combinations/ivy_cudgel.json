@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:spiked_club"
+  },
+  "input2": {
+    "item": "minecraft:jungle_leaves"
+  },
+  "mode": "or",
+  "output": "cobblemonminestuck:ivy_cudgel"
+}

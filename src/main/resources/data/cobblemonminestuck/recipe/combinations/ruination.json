@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minecraft:blue_ice"
+  },
+  "input2": {
+    "item": "minecraft:netherite_sword"
+  },
+  "mode": "or",
+  "output": "cobblemonminestuck:ruination"
+}

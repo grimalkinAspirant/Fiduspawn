@@ -3,6 +3,7 @@ plugins {
     id 'maven-publish'
     id 'net.neoforged.moddev' version '2.0.142'
     id 'idea'
+    id 'org.jetbrains.kotlin.jvm'
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -27,6 +28,21 @@ sourceSets.main.resources {
 }
 
 repositories {
+    mavenLocal()
+
+    maven { url "https://cursemaven.com" }
+    maven { url = "https://maven.ithundxr.dev/snapshots" }
+
+    repositories {
+        maven {
+            name = 'GeckoLib'
+            url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven'
+            content {
+                includeGroup("software.bernie.geckolib")
+            }
+        }
+    }
+    maven { url "https://maven.commoble.net/" }
     // Add here additional repositories if required by some of the dependencies below.
 }
 
@@ -118,6 +134,10 @@ configurations {
 }
 
 dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    implementation "software.bernie.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
+    implementation "net.commoble.infiniverse:${infiniverse_branch}:${infiniverse_version}"
+    implementation "curse.maven:minestuck-224635:8183503"
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
@@ -189,4 +209,7 @@ idea {
         downloadSources = true
         downloadJavadoc = true
     }
+}
+kotlin {
+    jvmToolchain(21)
 }

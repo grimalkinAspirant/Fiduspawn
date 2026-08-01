@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "cobblemon:malicious_armor"
+  },
+  "input2": {
+    "item": "minecraft:netherite_sword"
+  },
+  "mode": "and",
+  "output": "cobblemonminestuck:bitter_blade"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:shock_axe"
+  },
+  "input2": {
+    "item": "cobblemon:thunder_stone"
+  },
+  "mode": "and",
+  "output": "cobblemonminestuck:stun_shock"
+}

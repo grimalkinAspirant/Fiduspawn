@@ -1,0 +1,6 @@
+{
+  "parent": "minestuck:item/large_weapon",
+  "textures": {
+    "layer0": "cobblemonminestuck:item/stun_shock"
+  }
+}
