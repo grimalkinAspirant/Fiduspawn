@@ -5,7 +5,8 @@
     "minestuck:uranium": 413,
     "minestuck:shale": 612,
     "minestuck:ruby": 111111,
-    "minestuck:iodine":108
+    "minestuck:iodine":108,
+    "minestuck:amber": 801
   },
   "ingredient": {
     "item": "cobblemon:cherish_ball"

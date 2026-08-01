@@ -1,9 +1,8 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:zillium": 300,
-    "minestuck:ruby": 50000,
-    "minestuck:garnet": 10000,
+    "minestuck:ruby": 8000,
+    "minestuck:garnet": 5000,
     "minestuck:artifact": 60
   },
   "ingredient": {

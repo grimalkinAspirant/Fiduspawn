@@ -1,0 +1,13 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:uranium": 17500,
+    "minestuck:sulfur": 5000,
+    "minestuck:cobalt": 5000,
+    "minestuck:mercury": 5000,
+    "minestuck:zillium": 250
+  },
+  "ingredient": {
+    "item": "cobblemonminestuck:ivy_cudgel"
+  }
+}

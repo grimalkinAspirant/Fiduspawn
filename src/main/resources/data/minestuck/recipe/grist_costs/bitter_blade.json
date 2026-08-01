@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:shale": 12500,
+    "minestuck:tar": 2500
+  },
+  "ingredient": {
+    "item": "cobblemonminestuck:bitter_blade"
+  }
+}

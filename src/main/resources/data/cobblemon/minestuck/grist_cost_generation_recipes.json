@@ -1,0 +1,18 @@
+[
+  {
+    "interpreter": {
+      "minestuck:build": 5
+    },
+    "interpreter_type": "minestuck:cooking",
+    "source": "cobblemon:cooking_pot_shapeless",
+    "source_type": "recipe_type"
+  },
+  {
+    "interpreter": {
+      "minestuck:build": 5
+    },
+    "interpreter_type": "minestuck:cooking",
+    "source": "cobblemon:cooking_pot",
+    "source_type": "recipe_type"
+  }
+]

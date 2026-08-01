@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "cobblemon:master_ball"
+  },
+  "input2": {
+    "item": "cobblemon:cherish_ball"
+  },
+  "mode": "and",
+  "output": "cobblemon:ancient_origin_ball"
+}
