@@ -25,6 +25,8 @@ public class CbmsCreativeModeTabs {
                         output.accept(CbmsItems.STUN_SHOCK);
                         output.accept(CbmsItems.IVY_CUDGEL);
                         output.accept(CbmsItems.LEAF_BLADE);
+                        output.accept(CbmsItems.GRLY_CANDY);
+                        output.accept(CbmsItems.BROLY_CANDY);
                     })
                     .build());
 

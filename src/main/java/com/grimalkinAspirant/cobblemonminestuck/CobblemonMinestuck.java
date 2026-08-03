@@ -1,8 +1,11 @@
 package com.grimalkinAspirant.cobblemonminestuck;
 
+import com.cobblemon.mod.common.api.Priority;
+import com.google.common.eventbus.EventBus;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsCreativeModeTabs;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsItems;
 import org.slf4j.Logger;
+import com.cobblemon.mod.common.api.events.CobblemonEvents;
 
 import com.mojang.logging.LogUtils;
 
@@ -42,9 +45,9 @@ public class CobblemonMinestuck {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
 
     // Creates a new Block with the id "examplemod:example_block", combining the namespace and path
-    public static final DeferredBlock<Block> EXAMPLE_BLOCK = BLOCKS.registerSimpleBlock("example_block", BlockBehaviour.Properties.of().mapColor(MapColor.STONE));
+    // public static final DeferredBlock<Block> EXAMPLE_BLOCK = BLOCKS.registerSimpleBlock("example_block", BlockBehaviour.Properties.of().mapColor(MapColor.STONE));
     // Creates a new BlockItem with the id "examplemod:example_block", combining the namespace and path
-    public static final DeferredItem<BlockItem> EXAMPLE_BLOCK_ITEM = ITEMS.registerSimpleBlockItem("example_block", EXAMPLE_BLOCK);
+    // public static final DeferredItem<BlockItem> EXAMPLE_BLOCK_ITEM = ITEMS.registerSimpleBlockItem("example_block", EXAMPLE_BLOCK);
 
 
     // The constructor for the mod class is the first code that is run when your mod is loaded.
@@ -52,12 +55,10 @@ public class CobblemonMinestuck {
     public CobblemonMinestuck(IEventBus modEventBus, ModContainer modContainer) {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
+        //CobblemonEvents.COBBLEMON_INITIALISED.subscribe(Priority.HIGHEST, event -> {});
 
-        // Register the Deferred Register to the mod event bus so blocks get registered
         BLOCKS.register(modEventBus);
-        // Register the Deferred Register to the mod event bus so items get registered
         ITEMS.register(modEventBus);
-        // Register the Deferred Register to the mod event bus so tabs get registered
         CREATIVE_MODE_TABS.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in.
@@ -68,10 +69,8 @@ public class CobblemonMinestuck {
         CbmsCreativeModeTabs.register(modEventBus);
         CbmsItems.register(modEventBus);
 
-        // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
-        // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 

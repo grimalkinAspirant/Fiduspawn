@@ -1,0 +1,29 @@
+{
+  "requirements": [
+    {
+      "variant": "properties",
+      "target": "gender=male"
+    }
+  ],
+  "interactions": [
+    {
+      "grouping": "grly_candy:estrogen",
+      "cooldown": "0",
+      "requirements": [
+        {
+          "variant": "owner_held_item",
+          "itemCondition": "cobblemonminestuck:grly_candy"
+        }
+      ],
+      "effects": [
+        {
+          "variant": "script",
+          "script": "q.pokemon.apply('gender=female')"
+        },
+        {
+          "variant": "shrink_item"
+        }
+      ]
+    }
+  ]
+}

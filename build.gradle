@@ -138,6 +138,7 @@ dependencies {
     implementation "software.bernie.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
     implementation "net.commoble.infiniverse:${infiniverse_branch}:${infiniverse_version}"
     implementation "curse.maven:minestuck-224635:8183503"
+    implementation "curse.maven:cobblemon-687131:7553231"
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"

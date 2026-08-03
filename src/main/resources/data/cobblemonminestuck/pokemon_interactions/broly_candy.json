@@ -1,0 +1,29 @@
+{
+  "requirements": [
+    {
+      "variant": "properties",
+      "target": "gender=female"
+    }
+  ],
+  "interactions": [
+    {
+      "grouping": "broly_candy:testosterone",
+      "cooldown": "0",
+      "requirements": [
+        {
+          "variant": "owner_held_item",
+          "itemCondition": "cobblemonminestuck:broly_candy"
+        }
+      ],
+      "effects": [
+        {
+          "variant": "script",
+          "script": "q.pokemon.apply('gender=male')"
+        },
+        {
+          "variant": "shrink_item"
+        }
+      ]
+    }
+  ]
+}

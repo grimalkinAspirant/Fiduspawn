@@ -79,6 +79,20 @@ Provides compatibility and integration between Cobblemon and Minestuck.
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side="BOTH"
 
+[[dependencies.cobblemonminestuck]]
+    modId="cobblemon"
+    type="required"
+    versionRange="1.0"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.cobblemonminestuck]]
+    modId="minestuck"
+    type="required"
+    versionRange="1.0"
+    ordering="AFTER"
+    side="BOTH"
+
 # Here's another dependency
 [[dependencies.cobblemonminestuck]]
     modId="minecraft"
