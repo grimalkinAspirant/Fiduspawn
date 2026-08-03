@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 30,
+    "minestuck:chalk": 30
+  },
+  "ingredient": {
+    "item": "cobblemon:dragon_scale"
+  }
+}

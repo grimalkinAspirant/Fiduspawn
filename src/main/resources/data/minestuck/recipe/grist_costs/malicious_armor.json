@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:shale": 192,
+    "minestuck:rust": 96,
+    "minestuck:amethyst": 36
+  },
+  "ingredient": {
+    "item": "cobblemon:malicious_armor"
+  }
+}

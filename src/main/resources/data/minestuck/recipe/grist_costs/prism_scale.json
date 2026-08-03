@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:diamond": 60
+  },
+  "ingredient": {
+    "item": "cobblemon:prism_scale"
+  }
+}

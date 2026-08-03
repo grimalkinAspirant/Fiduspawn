@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:iodine": 20,
+    "minestuck:quartz": 5
+  },
+  "ingredient": {
+    "item": "cobblemon:cyan_mint_leaf"
+  }
+}

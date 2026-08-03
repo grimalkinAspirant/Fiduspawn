@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amethyst": 1000,
+    "minestuck:cobalt": 1000,
+    "minestuck:gold": 500
+  },
+  "ingredient": {
+    "item": "cobblemon:ability_patch"
+  }
+}

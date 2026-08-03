@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:iodine": 80,
+    "minestuck:build": 50
+  },
+  "ingredient": {
+    "item": "cobblemon:absorb_bulb"
+  }
+}

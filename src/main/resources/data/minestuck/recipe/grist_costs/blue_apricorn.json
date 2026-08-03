@@ -1,8 +1,8 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:build": 200,
-    "minestuck:cobalt": 50
+    "minestuck:iodine": 20,
+    "minestuck:cobalt": 5
   },
   "ingredient": {
     "item": "cobblemon:blue_apricorn"

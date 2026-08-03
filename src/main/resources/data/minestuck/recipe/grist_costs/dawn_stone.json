@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:quartz": 18
+  },
+  "ingredient": {
+    "item": "cobblemon:dawn_stone"
+  }
+}

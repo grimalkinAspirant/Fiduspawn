@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 20,
+    "minestuck:amber": 50
+  },
+  "ingredient": {
+    "item": "cobblemon:energy_root"
+  }
+}

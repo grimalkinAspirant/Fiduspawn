@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 4,
+    "minestuck:diamond": 54
+  },
+  "ingredient": {
+    "tag": "cobblemon:ice_stone_ores"
+  }
+}

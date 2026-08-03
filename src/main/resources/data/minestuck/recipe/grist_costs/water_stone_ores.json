@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 4,
+    "minestuck:cobalt": 54
+  },
+  "ingredient": {
+    "tag": "cobblemon:water_stone_ores"
+  }
+}

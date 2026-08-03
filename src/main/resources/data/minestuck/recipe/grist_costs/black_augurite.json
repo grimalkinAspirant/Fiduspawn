@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:tar": 32,
+    "minestuck:caulk": 32
+  },
+  "ingredient": {
+    "item": "cobblemon:black_augurite"
+  }
+}

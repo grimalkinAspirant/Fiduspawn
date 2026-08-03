@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:shale": 18
+  },
+  "ingredient": {
+    "item": "cobblemon:dusk_stone"
+  }
+}

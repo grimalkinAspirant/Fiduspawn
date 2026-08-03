@@ -1,10 +1,10 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:build": 100,
-    "minestuck:sulfur": 50
+    "minestuck:build": 24,
+    "minestuck:iodine": 12
   },
   "ingredient": {
-    "item": "#cobblemon:berries"
+    "tag": "cobblemon:berries"
   }
 }

@@ -1,7 +1,8 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:sulfur": 25
+    "minestuck:build": 5,
+    "minestuck:iodine": 5
   },
   "ingredient": {
     "item": "cobblemon:hearty_grains"

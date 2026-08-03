@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:tar": 60
+  },
+  "ingredient": {
+    "item": "cobblemon:black_sludge"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:build": 150
+    "minestuck:iodine": 15
   },
   "ingredient": {
-    "item": "#cobblemon:mint_seeds"
+    "tag": "cobblemon:mint_seeds"
   }
 }

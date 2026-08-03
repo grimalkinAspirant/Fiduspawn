@@ -1,8 +1,8 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:amber": 20,
-    "minestuck:shale": 20
+    "minestuck:amber": 4,
+    "minestuck:shale": 4
   },
   "ingredient": {
     "item": "cobblemon:sweet_apple"

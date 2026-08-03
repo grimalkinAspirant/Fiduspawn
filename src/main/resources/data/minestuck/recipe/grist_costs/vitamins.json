@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:iodine": 200,
+    "minestuck:rust": 100
+  },
+  "ingredient": {
+    "tag": "cobblemon:vitamins"
+  }
+}

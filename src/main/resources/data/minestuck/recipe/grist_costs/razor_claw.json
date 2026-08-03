@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 500,
+    "minestuck:quartz": 75
+  },
+  "ingredient": {
+    "item": "cobblemon:razor_claw"
+  }
+}

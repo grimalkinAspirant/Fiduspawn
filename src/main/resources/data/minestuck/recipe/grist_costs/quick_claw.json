@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:iodine": 50,
+    "minestuck:mercury": 80
+  },
+  "ingredient": {
+    "item": "cobblemon:quick_claw"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "type": "minestuck:grist_cost",
   "grist_cost": {
-    "minestuck:build": 200
+    "minestuck:iodine": 20
   },
   "ingredient": {
-    "item": "#cobblemon:apricorn_sprouts"
+    "tag": "cobblemon:apricorn_sprouts"
   }
 }

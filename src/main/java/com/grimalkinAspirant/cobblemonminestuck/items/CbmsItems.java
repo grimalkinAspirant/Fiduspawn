@@ -39,19 +39,19 @@ public class CbmsItems {
                     () -> new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN, 100, 10))),
                     new MSItemProperties().durability(1561).rarity(Rarity.RARE)));
     public static final DeferredItem<Item> IVY_CUDGEL = ITEMS.register("ivy_cudgel",
-            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -3.0F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_FIRE)).
+            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -2.7F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_FIRE)).
                     add(OnHitEffect.onCrit(OnHitEffect.enemyPotionEffect(() -> new MobEffectInstance(MobEffects.WEAKNESS, 100, 1)))),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
     public static final DeferredItem<Item> IVY_CUDGEL_FIRE = ITEMS.register("ivy_cudgel_fire",
-            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -3.0F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_WATER)).
+            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -2.7F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_WATER)).
                     add(OnHitEffect.onCrit(OnHitEffect.userPotionEffect(() -> new MobEffectInstance(MobEffects.DAMAGE_BOOST, 100, 0)))),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
     public static final DeferredItem<Item> IVY_CUDGEL_WATER = ITEMS.register("ivy_cudgel_water",
-            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -3.0F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_ROCK)).
+            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -2.7F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL_ROCK)).
                     add(OnHitEffect.onCrit(OnHitEffect.userPotionEffect(() -> new MobEffectInstance(MobEffects.ABSORPTION, 100, 1)))),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
     public static final DeferredItem<Item> IVY_CUDGEL_ROCK = ITEMS.register("ivy_cudgel_rock",
-            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -3.0F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL)).
+            () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.ORGANIC_TIER, 6, -2.7F).efficiency(15.0F).set(MSItemTypes.CLUB_TOOL).set(ItemRightClickEffect.switchTo(CbmsItems.IVY_CUDGEL)).
                     add(OnHitEffect.onCrit(OnHitEffect.userPotionEffect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 100, 1)))),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
     public static final DeferredItem<Item> WATER_SHURIKEN = ITEMS.register("water_shuriken",

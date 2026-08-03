@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:mercury": 1000
+  },
+  "ingredient": {
+    "item": "cobblemon:metal_alloy"
+  }
+}

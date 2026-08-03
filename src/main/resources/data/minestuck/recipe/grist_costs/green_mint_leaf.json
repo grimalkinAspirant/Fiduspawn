@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:iodine": 20,
+    "minestuck:uranium": 5
+  },
+  "ingredient": {
+    "item": "cobblemon:green_mint_leaf"
+  }
+}

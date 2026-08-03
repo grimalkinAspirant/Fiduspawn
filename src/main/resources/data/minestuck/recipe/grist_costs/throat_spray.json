@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 50,
+    "minestuck:diamond": 25
+  },
+  "ingredient": {
+    "item": "cobblemon:throat_spray"
+  }
+}

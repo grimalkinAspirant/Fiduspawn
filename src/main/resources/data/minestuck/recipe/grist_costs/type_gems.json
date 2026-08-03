@@ -5,6 +5,6 @@
     "minestuck:quartz": 1000
   },
   "ingredient": {
-    "item": "#cobblemon:type_gems"
+    "tag": "cobblemon:type_gems"
   }
 }

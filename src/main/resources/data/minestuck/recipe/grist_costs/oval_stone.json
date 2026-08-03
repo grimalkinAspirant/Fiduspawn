@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 100,
+    "minestuck:amethyst": 25
+  },
+  "ingredient": {
+    "item": "cobblemon:oval_stone"
+  }
+}

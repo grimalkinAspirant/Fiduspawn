@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:caulk": 35,
+    "minestuck:mercury": 35
+  },
+  "ingredient": {
+    "item": "cobblemon:float_stone"
+  }
+}

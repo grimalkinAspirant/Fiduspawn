@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 30,
+    "minestuck:tar": 30
+  },
+  "ingredient": {
+    "tag": "cobblemon:deep_seas"
+  }
+}

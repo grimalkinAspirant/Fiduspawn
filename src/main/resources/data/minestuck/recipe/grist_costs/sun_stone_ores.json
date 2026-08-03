@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 4,
+    "minestuck:amber": 54
+  },
+  "ingredient": {
+    "tag": "cobblemon:sun_stone_ores"
+  }
+}

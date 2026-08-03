@@ -6,6 +6,6 @@
     "minestuck:amber": 500
   },
   "ingredient": {
-    "item": "#cobblemon:fossils"
+    "tag": "cobblemon:fossils"
   }
 }

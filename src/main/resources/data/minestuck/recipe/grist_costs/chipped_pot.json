@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 3,
+    "minestuck:shale": 3,
+    "minestuck:gold": 28,
+    "minestuck:zillium": 1
+  },
+  "ingredient": {
+    "item": "cobblemon:chipped_pot"
+  }
+}

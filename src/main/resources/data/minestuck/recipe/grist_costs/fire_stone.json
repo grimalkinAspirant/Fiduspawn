@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 18
+  },
+  "ingredient": {
+    "item": "cobblemon:fire_stone"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:marble": 500
+  },
+  "ingredient": {
+    "item": "cobblemon:smoke_ball"
+  }
+}
