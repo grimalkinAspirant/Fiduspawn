@@ -27,6 +27,9 @@ public class CbmsCreativeModeTabs {
                         output.accept(CbmsItems.LEAF_BLADE);
                         output.accept(CbmsItems.GRLY_CANDY);
                         output.accept(CbmsItems.BROLY_CANDY);
+                        output.accept(CbmsItems.RARE_CANDY_FAYGO);
+                        output.accept(CbmsItems.ULTIMATE_EXP_CANDY);
+                        output.accept(CbmsItems.SUPER_DUPER_RARE_CANDY);
                     })
                     .build());
 

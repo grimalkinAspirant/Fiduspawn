@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 8,
+    "minestuck:iodine": 8
+  },
+  "ingredient": {
+    "item": "mega_showdown:max_mushroom"
+  }
+}

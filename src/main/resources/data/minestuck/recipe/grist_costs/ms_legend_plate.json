@@ -1,0 +1,29 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amber": 1000,
+    "minestuck:amethyst": 1000,
+    "minestuck:artifact": 1000,
+    "minestuck:build": 10000,
+    "minestuck:caulk": 1000,
+    "minestuck:chalk": 1000,
+    "minestuck:cobalt": 1000,
+    "minestuck:diamond": 1000,
+    "minestuck:garnet": 1000,
+    "minestuck:gold": 1000,
+    "minestuck:iodine": 1000,
+    "minestuck:marble": 1000,
+    "minestuck:mercury": 1000,
+    "minestuck:quartz": 1000,
+    "minestuck:ruby": 1000,
+    "minestuck:rust": 1000,
+    "minestuck:shale": 1000,
+    "minestuck:sulfur": 1000,
+    "minestuck:tar": 1000,
+    "minestuck:uranium": 1000,
+    "minestuck:zillium": 50
+  },
+  "ingredient": {
+    "item": "mega_showdown:legend_plate"
+  }
+}

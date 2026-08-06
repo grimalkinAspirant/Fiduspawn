@@ -1,0 +1,29 @@
+{
+  "requirements": [
+    {
+      "variant": "properties",
+      "target": "level>1"
+    }
+  ],
+  "interactions": [
+    {
+      "grouping": "rare_candy:level",
+      "cooldown": "0",
+      "requirements": [
+        {
+          "variant": "owner_held_item",
+          "itemCondition": "cobblemonminestuck:super_duper_exp_candy"
+        }
+      ],
+      "effects": [
+        {
+          "variant": "script",
+          "script": "q.pokemon.add_exp(1)"
+        },
+        {
+          "variant": "shrink_item"
+        }
+      ]
+    }
+  ]
+}

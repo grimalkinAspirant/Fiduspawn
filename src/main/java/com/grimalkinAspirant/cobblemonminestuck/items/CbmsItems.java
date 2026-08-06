@@ -1,20 +1,23 @@
 package com.grimalkinAspirant.cobblemonminestuck.items;
 
 import com.grimalkinAspirant.cobblemonminestuck.CobblemonMinestuck;
+import com.mraof.minestuck.item.MSFoods;
 import com.mraof.minestuck.item.MSItemProperties;
 import com.mraof.minestuck.item.MSItemTypes;
+import com.mraof.minestuck.item.foods.DrinkableItem;
 import com.mraof.minestuck.item.weapon.ItemRightClickEffect;
 import com.mraof.minestuck.item.weapon.OnHitEffect;
 import com.mraof.minestuck.item.weapon.WeaponItem;
 import com.mraof.minestuck.item.weapon.projectiles.ConsumableProjectileWeaponItem;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Rarity;
-import net.minecraft.world.item.Tiers;
+import net.minecraft.world.item.*;
 import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
+
+import java.util.List;
 
 public class CbmsItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(CobblemonMinestuck.MODID);
@@ -25,6 +28,14 @@ public class CbmsItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> BROLY_CANDY = ITEMS.register("broly_candy",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> ULTIMATE_EXP_CANDY = ITEMS.register("ultimate_exp_candy",
+            () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> SUPER_DUPER_RARE_CANDY = ITEMS.register("super_duper_rare_candy",
+            () -> new Item(new Item.Properties()));
+
+    // Food
+    public static final DeferredItem<Item> RARE_CANDY_FAYGO = ITEMS.register("rare_candy_faygo",
+            () -> new DrinkableItem(new Item.Properties().stacksTo(16).food(MSFoods.FAYGO)));
 
     // Weapons
     public static final DeferredItem<Item> BITTER_BLADE = ITEMS.register("bitter_blade",
@@ -70,7 +81,7 @@ public class CbmsItems {
             () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.PAPER_TIER, 1, 2F).efficiency(15.0F).set(MSItemTypes.SWORD_TOOL),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
 
-    public static void register(IEventBus eventBus) {
+public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
-    }
+        }
     }

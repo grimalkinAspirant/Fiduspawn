@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 1000,
+    "minestuck:cobalt": 750,
+    "minestuck:uranium": 1000,
+    "minestuck:artifact": 1000
+  },
+  "ingredient": {
+    "item": "mega_showdown:keystone"
+  }
+}

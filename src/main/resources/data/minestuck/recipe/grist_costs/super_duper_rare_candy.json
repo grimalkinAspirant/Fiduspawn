@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:tar": 100,
+    "minestuck:gold": 100,
+    "minestuck:artifact": -100
+  },
+  "ingredient": {
+    "item": "cobblemonminestuck:super_duper_rare_candy"
+  }
+}

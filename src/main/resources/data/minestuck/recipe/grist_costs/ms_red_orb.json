@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 50000,
+    "minestuck:artifact": 500
+  },
+  "ingredient": {
+    "item": "mega_showdown:red_orb"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:chalk": 1000,
+    "minestuck:diamond": 750,
+    "minestuck:caulk": 1000,
+    "minestuck:artifact": 1000
+  },
+  "ingredient": {
+    "item": "mega_showdown:mega_stone"
+  }
+}

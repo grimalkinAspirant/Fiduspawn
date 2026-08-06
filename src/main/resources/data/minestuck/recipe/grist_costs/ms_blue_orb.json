@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 50000,
+    "minestuck:artifact": 500
+  },
+  "ingredient": {
+    "item": "mega_showdown:blue_orb"
+  }
+}

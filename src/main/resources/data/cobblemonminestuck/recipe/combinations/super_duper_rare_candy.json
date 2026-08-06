@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "tag": "cobblemon:experience_candies"
+  },
+  "input2": {
+    "item": "minestuck:sbahj_poster"
+  },
+  "mode": "or",
+  "output": "cobblemonminestuck:super_duper_rare_candy"
+}

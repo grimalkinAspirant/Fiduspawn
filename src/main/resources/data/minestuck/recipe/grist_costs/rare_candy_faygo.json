@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:marble": 1,
+    "minestuck:cobalt": 1,
+    "minestuck:gold": 1
+  },
+  "ingredient": {
+    "item": "cobblemonminestuck:rare_candy_faygo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:zillium": 5
+  },
+  "ingredient": {
+    "item": "mega_showdown:zygarde_cell"
+  }
+}

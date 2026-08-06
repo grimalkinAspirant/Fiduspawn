@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cobblemonminestuck:item/ultimate_exp_candy"
+  }
+}

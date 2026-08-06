@@ -12,5 +12,11 @@
   "item.cobblemonminestuck.sacred_sword": "Sacred Sword",
   "item.cobblemonminestuck.kings_shield": "King's Shield",
   "item.cobblemonminestuck.leaf_blade": "Leaf Blade",
-  "item.cobblemonminestuck.water_shuriken": "Water Shuriken"
+  "item.cobblemonminestuck.water_shuriken": "Water Shuriken",
+  "item.cobblemonminestuck.rare_candy_faygo": "Rare Candy Faygo",
+  "item.cobblemonminestuck.rare_candy_faygo.tooltip": "Increases a Pokémon's experience by 4130 Exp. Points",
+  "item.cobblemonminestuck.ultimate_exp_candy": "§6Ultimate Exp Candy",
+  "item.cobblemonminestuck.ultimate_exp_candy.tooltip": "§6Increases a Pokémon's experience by 80100 Exp. Points.",
+  "item.cobblemonminestuck.super_duper_rare_candy": "Super duper rare candy",
+  "item.cobblemonminestuck.super_duper_rare_candy.tooltip": "Increases a Pokémon's experience by 1000000 Exp. Points."
 }

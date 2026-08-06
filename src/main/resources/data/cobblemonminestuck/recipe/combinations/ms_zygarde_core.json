@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "mega_showdown:zygarde_cell"
+  },
+  "input2": {
+    "item": "minestuck:brain_juice_bucket"
+  },
+  "mode": "or",
+  "output": "mega_showdown:zygarde_core"
+}

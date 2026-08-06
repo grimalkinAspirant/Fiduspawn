@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:cotton_candy_faygo"
+  },
+  "input2": {
+    "tag": "cobblemon:experience_candies"
+  },
+  "mode": "or",
+  "output": "cobblemonminestuck:rare_candy_faygo"
+}
