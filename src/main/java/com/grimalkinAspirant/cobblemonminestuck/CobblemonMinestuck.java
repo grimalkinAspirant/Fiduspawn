@@ -4,6 +4,10 @@ import com.cobblemon.mod.common.api.Priority;
 import com.google.common.eventbus.EventBus;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsCreativeModeTabs;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsItems;
+import com.mraof.minestuck.computer.ProgramType;
+import com.mraof.minestuck.computer.ProgramTypes;
+import com.mraof.minestuck.computer.SburbClientData;
+import net.neoforged.neoforge.registries.DeferredHolder;
 import org.slf4j.Logger;
 import com.cobblemon.mod.common.api.events.CobblemonEvents;
 
@@ -48,7 +52,6 @@ public class CobblemonMinestuck {
     // public static final DeferredBlock<Block> EXAMPLE_BLOCK = BLOCKS.registerSimpleBlock("example_block", BlockBehaviour.Properties.of().mapColor(MapColor.STONE));
     // Creates a new BlockItem with the id "examplemod:example_block", combining the namespace and path
     // public static final DeferredItem<BlockItem> EXAMPLE_BLOCK_ITEM = ITEMS.registerSimpleBlockItem("example_block", EXAMPLE_BLOCK);
-
 
     // The constructor for the mod class is the first code that is run when your mod is loaded.
     // FML will recognize some parameter types like IEventBus or ModContainer and pass them in automatically.

@@ -1,9 +1,11 @@
 package com.grimalkinAspirant.cobblemonminestuck.items;
 
 import com.grimalkinAspirant.cobblemonminestuck.CobblemonMinestuck;
+import com.mraof.minestuck.computer.ProgramTypes;
 import com.mraof.minestuck.item.MSFoods;
 import com.mraof.minestuck.item.MSItemProperties;
 import com.mraof.minestuck.item.MSItemTypes;
+import com.mraof.minestuck.item.components.MSItemComponents;
 import com.mraof.minestuck.item.foods.DrinkableItem;
 import com.mraof.minestuck.item.weapon.ItemRightClickEffect;
 import com.mraof.minestuck.item.weapon.OnHitEffect;
@@ -22,8 +24,7 @@ import java.util.List;
 public class CbmsItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(CobblemonMinestuck.MODID);
 
-    public static final DeferredItem<Item> PKMN_STORAGE_DISK = ITEMS.register("pkmn_storage_disk",
-            () -> new Item(new Item.Properties()));
+    // public static final DeferredItem<Item> PKMN_STORAGE_DISK = ITEMS.register("pkmn_storage_disk", () -> new Item(new Item.Properties().stacksTo(1).component(MSItemComponents.PROGRAM_TYPE, ProgramTypes.POKEMON_STORAGE)));
     public static final DeferredItem<Item> GRLY_CANDY = ITEMS.register("grly_candy",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> BROLY_CANDY = ITEMS.register("broly_candy",
