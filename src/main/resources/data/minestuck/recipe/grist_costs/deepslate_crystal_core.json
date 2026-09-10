@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 10000,
+    "minestuck:diamond": 5000
+  },
+  "ingredient": {
+    "item": "cobblemon:deepslate_crystal_core"
+  }
+}

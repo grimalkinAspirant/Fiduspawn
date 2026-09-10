@@ -1,0 +1,20 @@
+{
+  "structure_sets": [
+    {
+      "structure_set": {
+        "placement": {
+          "type": "minecraft:random_spread",
+          "salt": 90543602,
+          "separation": 10,
+          "spacing": 35
+        },
+        "structures": [
+          {
+            "structure": "cobblemon:habitats/natural_lightningrod_start",
+            "weight": 1
+          }
+        ]
+      }
+    }
+  ]
+}

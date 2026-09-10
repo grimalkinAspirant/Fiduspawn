@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "minestuck:smelting",
+      "modid": "cobblemon"
+    }
+  ],
+  "interpreter": {
+    "type": "minestuck:smelting",
+    "added_cost": {
+      "minestuck:tar": 1
+    }
+  },
+  "source": {
+    "type": "recipe_type",
+    "recipe_type": "cobblemon:cooking_pot"
+  }
+}

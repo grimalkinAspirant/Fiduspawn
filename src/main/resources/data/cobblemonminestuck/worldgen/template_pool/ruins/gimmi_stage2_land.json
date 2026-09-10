@@ -1,0 +1,36 @@
+{
+    "name": "cobblemonminestuck:ruins/gimmi_stage2_land",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "cobblemonminestuck:ruins/gimmi_tower_land_stage2_long",
+                "element_type": "minecraft:single_pool_element",
+                "override_liquid_settings": "apply_waterlogging",
+                "processors": "cobblemonminestuck:ruins/land_gimmi_tower",
+                "projection": "rigid"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "cobblemonminestuck:ruins/gimmi_tower_land_stage2_short",
+                "element_type": "minecraft:single_pool_element",
+                "override_liquid_settings": "apply_waterlogging",
+                "processors": "cobblemonminestuck:ruins/land_gimmi_tower",
+                "projection": "rigid"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "cobblemonminestuck:ruins/gimmi_tower_land_stage2_platform",
+                "element_type": "minecraft:single_pool_element",
+                "override_liquid_settings": "apply_waterlogging",
+                "processors": "cobblemonminestuck:ruins/land_gimmi_tower_stage2",
+                "projection": "rigid"
+            }
+        }
+    ]
+}

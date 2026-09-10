@@ -1,0 +1,20 @@
+{
+    "structure_sets": [
+        {
+            "structure_set": {
+                "placement": {
+                    "type": "minecraft:random_spread",
+                    "salt": 627895312,
+                    "separation": 3,
+                    "spacing": 5
+                },
+                "structures": [
+                    {
+                        "structure": "cobblemon:habitats/zen_garden_start",
+                        "weight": 1
+                    }
+                ]
+            }
+        }
+    ]
+}
