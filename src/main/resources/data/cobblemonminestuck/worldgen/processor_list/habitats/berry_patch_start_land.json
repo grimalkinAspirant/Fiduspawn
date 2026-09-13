@@ -3,7 +3,7 @@
         {
             "processor_type": "cobblemon:height_range",
             "reference": "sea_level",
-            "min_offset": 2,
+            "min_offset": 3,
             "max_offset": 250
         },
         {
@@ -45,10 +45,15 @@
                         "predicate_type": "minecraft:always_true"
                     },
                     "output_state": {
-                        "Name": "minecraft:grass_block"
+                        "Name": "minecraft:oak_leaves"
                     }
                 }
             ]
+        },
+        {
+            "processor_type": "gravity",
+            "heightmap": "WORLD_SURFACE_WG",
+            "offset": -2
         }
     ]
 }
