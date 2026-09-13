@@ -1,7 +1,7 @@
 {
   "biomes": "#minestuck:has_structure/imp_bunker",
   "spawn_overrides": {},
-  "type": "minecraft:buried_treasure",
+  "type": "minecraft:jigsaw",
   "start_pool": "cobblemonminestuck:quest_healing_machine_mind",
   "size": 7,
   "step": "surface_structures",
