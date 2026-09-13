@@ -10,7 +10,11 @@
         },
         "structures": [
           {
-            "structure": "cobblemon:habitats/natural_lightningrod_start",
+            "structure": "cobblemonminestuck:habitats/natural_lightningrod_land",
+            "weight": 1
+          },
+          {
+            "structure": "cobblemonminestuck:quest_healing_machine_doom",
             "weight": 1
           }
         ]

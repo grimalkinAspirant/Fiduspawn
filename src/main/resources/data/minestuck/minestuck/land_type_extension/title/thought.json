@@ -10,9 +10,13 @@
                 },
                 "structures": [
                     {
-                        "structure": "cobblemon:habitats/zen_garden_start",
+                        "structure": "cobblemonminestuck:habitats/zen_garden_land",
                         "weight": 1
-                    }
+                    },
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_mind",
+                    "weight": 1
+                  }
                 ]
             }
         }

@@ -10,9 +10,13 @@
                 },
                 "structures": [
                     {
-                        "structure": "cobblemon:habitats/meteorite_impact_start",
+                        "structure": "cobblemonminestuck:habitats/meteorite_impact_land",
                         "weight": 1
-                    }
+                    },
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_space",
+                    "weight": 1
+                  }
                 ]
             }
         }

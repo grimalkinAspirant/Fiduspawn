@@ -1,0 +1,20 @@
+{
+    "structure_sets": [
+        {
+            "structure_set": {
+                "placement": {
+                    "type": "minecraft:random_spread",
+                    "salt": 627895312,
+                    "separation": 16,
+                    "spacing": 32
+                },
+                "structures": [
+                    {
+                        "structure": "cobblemonminestuck:habitats/desert_oasis_land",
+                        "weight": 1
+                    }
+                ]
+            }
+        }
+    ]
+}

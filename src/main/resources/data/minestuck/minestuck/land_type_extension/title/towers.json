@@ -10,9 +10,13 @@
                 },
                 "structures": [
                     {
-                        "structure": "cobblemon:habitats/fae_mounds_start",
+                        "structure": "cobblemonminestuck:habitats/fae_mounds_land",
                         "weight": 1
-                    }
+                    },
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_hope",
+                    "weight": 1
+                  }
                 ]
             }
         }

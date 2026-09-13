@@ -9,10 +9,10 @@
                     "spacing": 32
                 },
                 "structures": [
-                    {
-                        "structure": "cobblemon:habitats/thermal_crevices_start",
-                        "weight": 1
-                    }
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_time",
+                    "weight": 1
+                  }
                 ]
             }
         }

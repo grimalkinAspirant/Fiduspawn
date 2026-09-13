@@ -4,9 +4,12 @@ import com.cobblemon.mod.common.api.Priority;
 import com.google.common.eventbus.EventBus;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsCreativeModeTabs;
 import com.grimalkinAspirant.cobblemonminestuck.items.CbmsItems;
+import com.mraof.minestuck.Minestuck;
 import com.mraof.minestuck.computer.ProgramType;
 import com.mraof.minestuck.computer.ProgramTypes;
 import com.mraof.minestuck.computer.SburbClientData;
+import com.mraof.minestuck.world.gen.structure.FrogTempleStructure;
+import net.minecraft.world.level.levelgen.structure.StructureType;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import org.slf4j.Logger;
 import com.cobblemon.mod.common.api.events.CobblemonEvents;
@@ -34,6 +37,8 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
+import java.util.function.Supplier;
+
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(CobblemonMinestuck.MODID)
 public class CobblemonMinestuck {
@@ -47,6 +52,7 @@ public class CobblemonMinestuck {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(MODID);
     // Create a Deferred Register to hold CreativeModeTabs which will all be registered under the "examplemod" namespace
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
+    
 
     // Creates a new Block with the id "examplemod:example_block", combining the namespace and path
     // public static final DeferredBlock<Block> EXAMPLE_BLOCK = BLOCKS.registerSimpleBlock("example_block", BlockBehaviour.Properties.of().mapColor(MapColor.STONE));

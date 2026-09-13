@@ -9,10 +9,10 @@
                     "spacing": 32
                 },
                 "structures": [
-                    {
-                        "structure": "minestuckdungeons:light_dungeon",
-                        "weight": 1
-                    }
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_light",
+                    "weight": 1
+                  }
                 ]
             }
         }

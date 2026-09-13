@@ -10,9 +10,13 @@
                 },
                 "structures": [
                     {
-                        "structure": "minestuckdungeons:life_dungeon",
+                        "structure": "cobblemonminestuck:habitats/berry_patches_land",
                         "weight": 1
-                    }
+                    },
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_life",
+                    "weight": 1
+                  }
                 ]
             }
         }

@@ -9,10 +9,10 @@
                     "spacing": 32
                 },
                 "structures": [
-                    {
-                        "structure": "minestuckdungeons:blood_dungeon",
-                        "weight": 1
-                    }
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_blood",
+                    "weight": 1
+                  }
                 ]
             }
         }

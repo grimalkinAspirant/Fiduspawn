@@ -1,0 +1,20 @@
+{
+    "structure_sets": [
+        {
+            "structure_set": {
+                "placement": {
+                    "type": "minecraft:random_spread",
+                    "salt": 627895312,
+                    "separation": 16,
+                    "spacing": 32
+                },
+                "structures": [
+                  {
+                    "structure": "cobblemonminestuck:quest_healing_machine_rage",
+                    "weight": 1
+                  }
+                ]
+            }
+        }
+    ]
+}

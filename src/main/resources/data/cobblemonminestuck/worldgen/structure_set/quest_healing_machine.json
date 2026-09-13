@@ -1,0 +1,63 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "exclusion_zone": {
+      "chunk_count": 10,
+      "other_set": "minecraft:villages"
+    },
+    "spacing": 40,
+    "separation": 25,
+    "salt": 111111413612108,
+    "spread_type": "triangular"
+  },
+  "structures": [
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_blood",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_breath",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_doom",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_heart",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_hope",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_life",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_light",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_mind",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_rage",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_space",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_time",
+      "weight": 1
+    },
+    {
+      "structure": "cobblemonminestuck:quest_healing_machine_void",
+      "weight": 1
+    }
+  ]
+}
