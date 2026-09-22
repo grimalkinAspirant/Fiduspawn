@@ -16,7 +16,7 @@ public class CbmsCreativeModeTabs {
     public  static final Supplier<CreativeModeTab> COBBLEMONMINESTUCK_TAB = CREATIVE_MODE_TAB.register("cobblemonminestuck_tab",
             () -> CreativeModeTab.builder()
                     .icon(() -> new ItemStack(CbmsItems.ULTIMATE_EXP_CANDY.get()))
-                    .title(Component.translatable("Cobblemon || Minestuck"))
+                    .title(Component.translatable("Fiduspawn"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(CbmsItems.SACRED_SWORD);
                         output.accept(CbmsItems.WATER_SHURIKEN);
