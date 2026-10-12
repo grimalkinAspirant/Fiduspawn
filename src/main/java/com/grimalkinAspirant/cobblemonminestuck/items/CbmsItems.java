@@ -14,12 +14,17 @@ import com.mraof.minestuck.item.weapon.projectiles.ConsumableProjectileWeaponIte
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.item.*;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.material.MapColor;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
-
+import net.minecraft.world.level.block.Block;
+import net.neoforged.neoforge.registries.DeferredBlock;
 import java.util.List;
+
+import static com.grimalkinAspirant.cobblemonminestuck.CobblemonMinestuck.BLOCKS;
 
 public class CbmsItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(CobblemonMinestuck.MODID);
@@ -81,7 +86,11 @@ public class CbmsItems {
     public static final DeferredItem<Item> LEAF_BLADE = ITEMS.register("leaf_blade",
             () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.PAPER_TIER, 1, 2F).efficiency(15.0F).set(MSItemTypes.SWORD_TOOL),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
-
+    // Blocks
+    public static final DeferredBlock<Block> GOLD_LEAF_FLOOR = BLOCKS.registerSimpleBlock("gold_leaf_floor",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_ORANGE));
+    public static final DeferredItem<BlockItem> GOLD_LEAF_FLOOR_ITEM = ITEMS.registerSimpleBlockItem("gold_leaf_floor",
+            GOLD_LEAF_FLOOR);
 public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
         }

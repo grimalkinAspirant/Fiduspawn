@@ -39,6 +39,8 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 import java.util.function.Supplier;
 
+//import static com.grimalkinAspirant.cobblemonminestuck.world.land.MSLLandTypes.TERRAINS;
+
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(CobblemonMinestuck.MODID)
 public class CobblemonMinestuck {
@@ -69,6 +71,7 @@ public class CobblemonMinestuck {
         BLOCKS.register(modEventBus);
         ITEMS.register(modEventBus);
         CREATIVE_MODE_TABS.register(modEventBus);
+        //TERRAINS.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in.
         // Note that this is necessary if and only if we want *this* class (ExampleMod) to respond directly to events.

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all":"cobblemonminestuck:block/gold_leaf_floor"
+  }
+}
