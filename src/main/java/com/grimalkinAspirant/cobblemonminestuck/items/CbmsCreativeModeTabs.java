@@ -30,7 +30,6 @@ public class CbmsCreativeModeTabs {
                         output.accept(CbmsItems.RARE_CANDY_FAYGO);
                         output.accept(CbmsItems.ULTIMATE_EXP_CANDY);
                         output.accept(CbmsItems.SUPER_DUPER_RARE_CANDY);
-                        //output.accept(CbmsItems.GOLD_LEAF_FLOOR);
                     })
                     .build());
 

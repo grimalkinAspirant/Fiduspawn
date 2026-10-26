@@ -87,10 +87,6 @@ public class CbmsItems {
             () -> new WeaponItem(new WeaponItem.Builder(MSItemTypes.PAPER_TIER, 1, 2F).efficiency(15.0F).set(MSItemTypes.SWORD_TOOL),
                     new MSItemProperties().durability(2048).rarity(Rarity.EPIC)));
     // Blocks
-    public static final DeferredBlock<Block> GOLD_LEAF_FLOOR = BLOCKS.registerSimpleBlock("gold_leaf_floor",
-            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_ORANGE));
-    public static final DeferredItem<BlockItem> GOLD_LEAF_FLOOR_ITEM = ITEMS.registerSimpleBlockItem("gold_leaf_floor",
-            GOLD_LEAF_FLOOR);
 public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
         }
